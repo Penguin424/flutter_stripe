@@ -12,9 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
   stripe_android:
-    path: /packages/stripe_android
+    path: ../stripe_android/
   stripe_ios:
-    path: /packages/stripe_ios
+    path: ../stripe_ios/
   stripe_platform_interface: ^2.1.1
 dev_dependencies:
   flutter_test:
